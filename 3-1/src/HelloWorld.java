@@ -6,6 +6,8 @@ public class HelloWorld {
 		int a=12;
 		float b=9.99f;
 		int c=a+(int)b;
-		System.out.println(c);
+		System.out.println(c);//21
+		System.out.println(35/4);//8
+		System.out.println(35/4%3);//2
 	}
 }
