@@ -2,9 +2,6 @@
  * Created by zqq on 10/4/16.
  */
 public class Person {
-	/**
-	 * Inner是成员内部类
-	 */
 	public static String name = "siguoya";
 	public char sex = '男';
 	private static int age = 24;
