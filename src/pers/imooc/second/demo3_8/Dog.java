@@ -5,7 +5,7 @@ package pers.imooc.second.demo3_8;
  */
 public class Dog extends Animal {
 
-    public String name="feimei";
+    public String name="肥妹";
 
     public static void main(String[] args) {
         Dog dog = new Dog();
