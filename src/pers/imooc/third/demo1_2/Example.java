@@ -1,4 +1,4 @@
-package pers.imooc.third.demo2_1;
+package pers.imooc.third.demo1_2;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
