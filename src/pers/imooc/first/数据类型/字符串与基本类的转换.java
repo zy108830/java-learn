@@ -1,4 +1,4 @@
-package pers.imooc.first.类常用;
+package pers.imooc.first.数据类型;
 
 /**
  * Created by zqq on 11/20/16.
